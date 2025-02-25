@@ -5,9 +5,8 @@ const About = () => {
   return (
     <div className="border-b mx-5 border-neutral-900 pb-4">
       <h2 className="my-20 text-center text-4xl">
-        About
+        About</h2>
         <span className="text-neutral-500">Me</span>
-      </h2>
       <div className="flex flex-wrap">
         <motion.div 
         whileInView={{opacity:1,x:0}}
